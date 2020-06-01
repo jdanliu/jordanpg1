@@ -1,8 +1,8 @@
 # Site settings
-baseurl = "https://www.gokhan.io/"
+baseurl = "jdanliu.github.io"
 canonifyurls = true
 languageCode = "en"
-title = "Gokhan Ciflikli, Ph.D."
+title = "Jordan Liu"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "UA-90951528-1"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -14,10 +14,10 @@ protocol = "https://"
 [params]
 	name = "Jordan Liu"
 	job = "Undergraduate Student @ University of Pennsylvania"
-	description = "Data Science, Visualization, Machine Learning, Python, R"
-	bio = "[R](https://gokhan.io/categories/r) | [Python](https://gokhan.io/categories/python) | [Data Visualization](https://gokhan.io/categories/visualization) | [Predictive Modeling](https://gokhan.io/categories/prediction)"
+	description = "Health Policy, Bioethics, Global Health, Medicine"
+	bio = "[R](https://gokhan.io/categories/r) | [Python](https://gokhan.io/categories/python)"
 
-	github = "ciflikli"
+	github = "jdanliu"
 	enableRSS = true
 	
 	title404 = "This is not the web page you are looking for."
@@ -41,6 +41,6 @@ protocol = "https://"
 
 [social]
 
-  github-square = "https://github.com/ciflikli"
-  linkedin = "https://www.linkedin.com/in/gokhan-ciflikli/"
-  twitter-square = "https://www.twitter.com/gokhan_ciflikli"
+  github-square = "https://github.com/jdanliu"
+  linkedin = "https://www.linkedin.com/in/jordan-l-b76582120/"
+  facebook = "https://www.facebook.com/jdanliu"
