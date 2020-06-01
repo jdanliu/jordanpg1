@@ -12,8 +12,8 @@ paginate = 20
 protocol = "https://"
 
 [params]
-	name = "Gökhan Çiflikli, Ph.D."
-	job = "Senior Data Scientist @ [Attest](https://www.askattest.com/)"
+	name = "Jordan Liu"
+	job = "Undergraduate Student @ University of Pennsylvania"
 	description = "Data Science, Visualization, Machine Learning, Python, R"
 	bio = "[R](https://gokhan.io/categories/r) | [Python](https://gokhan.io/categories/python) | [Data Visualization](https://gokhan.io/categories/visualization) | [Predictive Modeling](https://gokhan.io/categories/prediction)"
 
