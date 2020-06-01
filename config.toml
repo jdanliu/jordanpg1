@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "jdanliu.github.io"
+baseurl = "gokhan.io"
 canonifyurls = true
 languageCode = "en"
 title = "Jordan Liu"
