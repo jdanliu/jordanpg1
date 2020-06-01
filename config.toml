@@ -17,7 +17,7 @@ protocol = "https://"
 	description = "Health Policy, Bioethics, Global Health, Medicine"
 	bio = "[R](https://gokhan.io/categories/r) | [Python](https://gokhan.io/categories/python)"
 
-	github = "jdanliu"
+	github = "ciflikli"
 	enableRSS = true
 	
 	title404 = "This is not the web page you are looking for."
